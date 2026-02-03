@@ -1,7 +1,7 @@
 # Consulting Projects – NS Cybersecurity
 
 ## Overview
-This repository collects consulting-style cybersecurity projects completed under NS Cybersecurity. [file:693]  
+This repository collects consulting-style cybersecurity projects completed under NS Cybersecurity. 
 Each project links to a dedicated repository with full reports and evidence.
 
 ## Projects
